@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Документация](README.md)
+
 ## Робототехника <a href="#robotics" id="robotics"></a>
 
-* [Знакомство с роботами](README.md)
+* [Знакомство с роботами](robotics/overview/README.md)
   * [Манипуляторы](robotics/overview/manipulators.md)
 * [ABB роботы](robotics/abb/README.md)
   * [RobotStudio](robotics/abb/robotstudio.md)
