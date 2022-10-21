@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Документация](README.md)
+* [Полезный материал](poleznyi-material.md)
 
 ## Робототехника <a href="#robotics" id="robotics"></a>
 
