@@ -1,9 +1,19 @@
 # Table of contents
 
-* [Документация](README.md)
-* [Полезный материал](poleznyi-material.md)
+* [Main](README.md)
+* [Useful](useful.md)
 
-## Робототехника <a href="#robotics" id="robotics"></a>
+## Robotics
 
 * [UFactory](robotics/ufactory/README.md)
   * [uArm Swift Pro (Python)](robotics/ufactory/uarm-swift-pro-python.md)
+* [ABB Robotics](robotics/abb.md)
+* [Mitsubishi](robotics/mitsubishi.md)
+
+## Automation
+
+* [Page 1](automation/page-1.md)
+
+## Projects <a href="#Projects" id="Projects"></a>
+
+* [Page 2](Projects/page-2.md)
