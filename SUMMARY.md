@@ -6,7 +6,9 @@
 ## Robotics
 
 * [UFactory](robotics/ufactory/README.md)
-  * [uArm Swift Pro (Python)](robotics/ufactory/uarm-swift-pro-python.md)
+  * [uArm Swift Pro (Python)](robotics/ufactory/uarm-swift-pro-python/README.md)
+    * [In Russian](robotics/ufactory/uarm-swift-pro-python/ru.md)
+    * [In Estonian](robotics/ufactory/uarm-swift-pro-python/ee.md)
 * [ABB Robotics](robotics/abb.md)
 * [Mitsubishi](robotics/mitsubishi.md)
 
