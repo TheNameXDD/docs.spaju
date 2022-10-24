@@ -1,2 +1,0 @@
-# uArm Swift Pro (Python)
-
