@@ -1,22 +1,22 @@
 ---
-description: Когда-нибудь здесь будет описание, но не сейчас
+description: Here will be some description, but not right now :)
 cover: .gitbook/assets/banner_docs.jpg
 coverY: 0
 ---
 
-# Документация
+# Main
 
+Hello there! \
+\
+You can here in my documentation find some useful information and other stuff (projects, files, sources, and more). This website is about: robotics and automation. I researched whole Internet information that I could find and posted here, in my opinion, the coolest information that will be useful for students and enthusiasts.
 
-
-Здесь вы найдете различную мою документацию (статьи, проекты, файлы) которую можно использовать для саморазвития и расширения своего кругозора. Весь публикуемый здесь контент распространяется под лицензией [<mark style="color:blue;">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</mark>](http://creativecommons.org/licenses/by-nc-nd/3.0/). Используйте изложенный здесь материал для саморазвития и развития нашего общества :)
-
-Хочу напомнить, что у меня существует еще собственный блог, где я публикую свое мнение и рассказываю о всяком интересном. [<mark style="color:blue;">Перейти на страницу блога</mark>](https://blog.spaju.engineering).
+You can use this information with a CCANN license -  [<mark style="color:blue;">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</mark>](http://creativecommons.org/licenses/by-nc-nd/3.0/).&#x20;
 
 {% hint style="warning" %}
-Если вы где-то в документации нашли ошибку/неточности или неверную информацию просьба связаться со мной и все рассказать (sander@spaju.engineering). Буду благодарен
+If you found some mistakes here or in your opinion there must be another / more full information please contact with me via email: sander@spaju.engineering
 {% endhint %}
 
-#### Дополнительная информация
+**My social links:**
 
 LinkedIn: [https://www.linkedin.com/in/sander-paju/](https://www.linkedin.com/in/sander-paju/)
 
