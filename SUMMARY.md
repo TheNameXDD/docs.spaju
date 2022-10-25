@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Main](README.md)
-* [Useful](useful.md)
 
 ## Robotics
 
@@ -14,6 +13,9 @@
 
 ## Automation
 
+* [About automation](automation/about-automation/README.md)
+  * [In Russian: Об автоматизации](automation/about-automation/ru.md)
+  * [In Estonian](automation/about-automation/ee.md)
 * [Industrial Automation](automation/industrial-automation/README.md)
   * [In Russian](automation/industrial-automation/ru/README.md)
     * [Начало](automation/industrial-automation/ru/begin.md)
