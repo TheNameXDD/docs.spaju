@@ -16,6 +16,7 @@
 * [About automation](automation/about-automation/README.md)
   * [In Russian: Об автоматизации](automation/about-automation/ru/README.md)
     * [Профессии в автоматике](automation/about-automation/ru/jobs-in-automation.md)
+    * [Где учиться? (На примере Эстонии)](automation/about-automation/ru/where-study.md)
   * [In Estonian](automation/about-automation/ee.md)
 * [Industrial Automation](automation/industrial-automation/README.md)
   * [In Russian](automation/industrial-automation/ru/README.md)
