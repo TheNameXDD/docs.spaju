@@ -1,6 +1,6 @@
 ---
 description: Here will be some description, but not right now :)
-cover: .gitbook/assets/banner_docs.jpg
+cover: broken-reference
 coverY: 0
 ---
 
