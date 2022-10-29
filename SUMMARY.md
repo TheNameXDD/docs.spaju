@@ -14,7 +14,8 @@
 ## Automation
 
 * [About automation](automation/about-automation/README.md)
-  * [In Russian: Об автоматизации](automation/about-automation/ru.md)
+  * [In Russian: Об автоматизации](automation/about-automation/ru/README.md)
+    * [Перспективы и профессии в автоматике](automation/about-automation/ru/jobs-and-future.md)
   * [In Estonian](automation/about-automation/ee.md)
 * [Industrial Automation](automation/industrial-automation/README.md)
   * [In Russian](automation/industrial-automation/ru/README.md)
