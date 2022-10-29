@@ -2,7 +2,6 @@
 description: Каково наше будущее?
 cover: ../../../.gitbook/assets/Banner_about_automation_jobs
 coverY: 56.37339055793991
-layout: editorial
 ---
 
 # Профессии в автоматике
