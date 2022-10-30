@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Main page](README.md)
+  * [На русском](main-page/ru.md)
+  * [Eesti keeles](main-page/ee.md)
 
 ## Robotics
 
