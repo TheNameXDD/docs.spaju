@@ -1,10 +1,10 @@
 ---
 description: Here will be some description, but not right now :)
-cover: broken-reference
+cover: .gitbook/assets/gitbook_banner.png
 coverY: 0
 ---
 
-# Main
+# Main page
 
 Hello there! \
 \
