@@ -1,7 +1,7 @@
 ---
 description: Here will be some description, but not right now :)
-cover: .gitbook/assets/documentation_banner.jpg
-coverY: 0
+cover: .gitbook/assets/knowledge_banner.webp
+coverY: 36.48068669527897
 ---
 
 # Main page

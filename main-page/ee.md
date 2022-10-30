@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/documentation_banner.jpg
-coverY: 0
+cover: ../.gitbook/assets/knowledge_banner.webp
+coverY: 214.59227467811158
 ---
 
 # Eesti keeles
