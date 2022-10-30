@@ -1,6 +1,6 @@
 ---
 description: Here will be some description, but not right now :)
-cover: .gitbook/assets/gitbook_banner.png
+cover: .gitbook/assets/documentation_banner.jpg
 coverY: 0
 ---
 
