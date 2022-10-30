@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Main](README.md)
+* [Main page](README.md)
 
 ## Robotics
 
