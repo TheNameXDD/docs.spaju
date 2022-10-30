@@ -27,6 +27,7 @@
   * [In Estonian](automation/industrial-automation/ee.md)
   * [In English](automation/industrial-automation/en.md)
 * [Building automation](automation/building-automation.md)
+* [Automation control](automation/automation-control.md)
 
 ## Projects <a href="#Projects" id="Projects"></a>
 
