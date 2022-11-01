@@ -6,6 +6,10 @@
 
 ## Robotics
 
+* [About robotics](robotics/about-robotics/README.md)
+  * [In Russian (О роботах)](robotics/about-robotics/ru/README.md)
+    * [Типы роботов](robotics/about-robotics/ru/types-of-robots.md)
+  * [in Estonian](robotics/about-robotics/ee.md)
 * [UFactory](robotics/ufactory/README.md)
   * [In Russian](robotics/ufactory/ru.md)
   * [In Estonian](robotics/ufactory/ee.md)
