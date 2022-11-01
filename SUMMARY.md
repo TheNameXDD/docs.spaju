@@ -22,7 +22,7 @@
   * [In Estonian](automation/about-automation/ee.md)
 * [Industrial Automation](automation/industrial-automation/README.md)
   * [In Russian](automation/industrial-automation/ru/README.md)
-    * [Пирамида автоматизации](automation/industrial-automation/ru/pyramid-of-automation.md)
+    * [Пирамида автоматизации](automation/industrial-automation/ru/begin.md)
     * [Дискретная и аналоговая автоматика](automation/industrial-automation/ru/discrete-and-analog-automation.md)
   * [In Estonian](automation/industrial-automation/ee.md)
   * [In English](automation/industrial-automation/en.md)
