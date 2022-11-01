@@ -91,7 +91,7 @@ coverY: 56.37339055793991
 
 ### Industrial automation sales engineer
 
-Данный специалист является своего рода 1 в 3 инженером. Он является и automation technician, и field system engineer, и automation engineer.
+Данный специалист является своего рода инженером 3 в 1. Он является и automation technician, и field system engineer, и automation engineer.
 
 Основные задачи:
 
