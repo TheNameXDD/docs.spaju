@@ -15,9 +15,7 @@ Selles artiklis räägin automatiseerimise valdkonna ametite mitmekesisusest. Se
 Automatiseerimise valdkond ja automatiseerimine üldiselt ei piirdu ühe ametiga, mida nimetatakse automatiseerimiseks. See on lai valdkond, kus on üldotstarbelised spetsialiseerumisalad ja kitsalt fokusseeritud erialad. Selles artiklis toon näiteid automatiseerimise valdkonna ametikohtadest ja ütlen teile paar sõna nende kohta: milliseid teadmisi on vaja ja mida need teadmised annavad.
 
 {% hint style="info" %}
-Sellest mis asi on automatiseerimine võib lugeda eelmisest&#x20;
-
-jaotisest [Automatiseerimisest](./)
+Sellest mis asi on automatiseerimine võib lugeda eelmisest jaotisest [Automatiseerimisest](../ee.md)
 {% endhint %}
 
 &#x20;Automatiseerimist õpitakse kutsehariduse ja ülikooli tasemel. Kutsehariduse tasemel saate teada pealmised momendid mis on seotud automaatikaga (digitehnoloogia, elekter, elektroonika, kontrollerite programmeerimine jne), aga kõrgemal tasemel ehk ülikoolides uurite seda teemat sügavamalt ja põhjalikumalt.

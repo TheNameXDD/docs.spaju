@@ -23,7 +23,7 @@
   * [In Russian: Об автоматизации](automation/about-automation/ru/README.md)
     * [Профессии в автоматике](automation/about-automation/ru/jobs-in-automation.md)
     * [Где учиться? (На примере Эстонии)](automation/about-automation/ru/where-study.md)
-  * [In Estonian: Automaatikast](automation/about-automation/ee/README.md)
+  * [In Estonian: Automaatikast](automation/about-automation/ee.md)
     * [Valdkonnad automaatikas](automation/about-automation/ee/jobs-in-automation.md)
 * [Industrial Automation](automation/industrial-automation/README.md)
   * [In Russian (Промышленная автоматизация)](automation/industrial-automation/ru/README.md)
