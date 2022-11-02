@@ -25,11 +25,10 @@
     * [Где учиться? (На примере Эстонии)](automation/about-automation/ru/where-study.md)
   * [In Estonian](automation/about-automation/ee.md)
 * [Industrial Automation](automation/industrial-automation/README.md)
-  * [In Russian](automation/industrial-automation/ru/README.md)
+  * [In Russian (Промышленная автоматизация)](automation/industrial-automation/ru/README.md)
     * [Пирамида автоматизации](automation/industrial-automation/ru/begin.md)
-    * [Дискретная и аналоговая автоматика](automation/industrial-automation/ru/discrete-and-analog-automation.md)
+    * [Дискретная и аналоговая автоматизация](automation/industrial-automation/ru/discrete-and-analog-automation.md)
   * [In Estonian](automation/industrial-automation/ee.md)
-  * [In English](automation/industrial-automation/en.md)
 * [Building automation](automation/building-automation.md)
 * [Automation control](automation/automation-control.md)
 
