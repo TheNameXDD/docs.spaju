@@ -12,7 +12,7 @@ Selles artiklis räägin automatiseerimise valdkonna ametite mitmekesisusest. Se
 
 ### **Kas siin on ainult automaatikud ?**
 
-Automatiseerimise valdkond ja automatiseerimine üldiselt ei piirdu ühe ametiga, mida nimetatakse automatiseerimiseks. See on lai valdkond, kus on üldotstarbelised spetsialiseerumisalad ja kitsalt fokusseeritud erialad. Selles artiklis toon näiteid automatiseerimise valdkonna ametikohtadest ja ütlen teile paar sõna nende kohta: milliseid teadmisi on vaja ja mida need teadmised annavad.
+Automatiseerimise valdkond ja automatiseerimine üldiselt ei piirdu ühe ametiga, mida nimetatakse automaatikuks. See on lai valdkond, kus on üldotstarbelised spetsialiseerumisalad ja kitsalt fokusseeritud erialad. Selles artiklis toon näiteid automatiseerimise valdkonna ametikohtadest ja ütlen teile paar sõna nende kohta: milliseid teadmisi on vaja ja mida need teadmised annavad.
 
 {% hint style="info" %}
 Sellest mis asi on automatiseerimine võib lugeda eelmisest jaotisest [Automatiseerimisest](../ee.md)
