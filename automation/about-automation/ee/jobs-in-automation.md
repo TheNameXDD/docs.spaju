@@ -26,7 +26,7 @@ Sellest mis asi on automatiseerimine võib lugeda eelmisest jaotisest [Automatis
 Siin on peamised ja levinumad töökohad Linkedin/jobs statistika ja nimekirja järgi. Need ametikohad võivad erineda teie ametinimetustest ja kohustustest (teie kohustused ei pea olema täpselt samasugused)
 {% endhint %}
 
-### **Esimene samm**
+## **Esimene samm**
 
 Kõige esimesem samm teie karjääriredelil  automaatika valdkonnas see on muidugi saada automaatikuks või **Automation Technician** (automaatikatehnik)
 
@@ -57,7 +57,7 @@ Põhilised ülesanded:
 
 **Siin vajalikud teadmised:** tööstuskontrollerite programmeerimise kõrgtase, OOP tundmine, teadmised tööstusvõrkude toimimisest. Algaja / edasijõudnu tase andmebaasist (alustades lihtsate päringute tegemisest)
 
-### **Teine samm**
+## **Teine samm**
 
 Siin oled juba kogenum automatiseerimise praktikas ja teoreetilises valdkonnas. Nüüd te saate mitte ainult töötada valmis dokumentatsioonidega, joonistega ja skeemidega, vaid saate neid ka ise koostada ja projekteerida.
 
@@ -85,7 +85,7 @@ Põhilised ülesanded:
 * Programmeerimine (PLC programmer)
 * Süsteemide kasutuselevõtt
 
-### **Kolmas samm**
+## **Kolmas samm**
 
 See samm on rohkem ärietapp, kus insenerid tegelevad ettevõtte äritegevusega. Nad on toodete ja projektide juhid, juhivad osakondi ja tootmist.
 
@@ -106,7 +106,7 @@ Need on peamiselt tootejuhid, projektijuhid ja osakonnajuhatajad. Nende otsene j
 
 > Töökohad Industrial automation sales engineer, automation product manager & project management – automation tihti töötavad viimasel kahel kihil automaatikapüramiidil. See tähendab, et nad tegelevad automaatsete protsessijuhtimissüsteemidega rohkem kui automatiseeritud tehniliste juhtimissüsteemidega.
 
-### **Muud töökohad**
+## **Muud töökohad**
 
 Lisaks ülaltoodud töökohtadele on ka järgmised sageli esinevad töökohad:
 
