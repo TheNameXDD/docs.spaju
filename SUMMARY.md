@@ -25,6 +25,7 @@
     * [Где учиться? (На примере Эстонии)](automation/about-automation/ru/where-study.md)
   * [In Estonian: Automaatikast](automation/about-automation/ee.md)
     * [Valdkonnad automaatikas](automation/about-automation/ee/jobs-in-automation.md)
+    * [Kus saab õppida? (Näide Eestist)](automation/about-automation/ee/where-study.md)
 * [Industrial Automation](automation/industrial-automation/README.md)
   * [In Russian (Промышленная автоматизация)](automation/industrial-automation/ru/README.md)
     * [Пирамида автоматизации](automation/industrial-automation/ru/begin.md)
