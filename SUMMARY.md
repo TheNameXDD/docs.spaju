@@ -4,6 +4,16 @@
   * [На русском](main-page/ru.md)
   * [Eesti keeles](main-page/ee.md)
 
+## PLC
+
+* [Siemens](plc/Siemens/README.md)
+  * [Контроллеры Siemens](plc/Siemens/ru/README.md)
+    * [LOGO!](plc/Siemens/ru/logo/README.md)
+      * [Задания](plc/Siemens/ru/logo/tasks.md)
+    * [S7-1200](plc/Siemens/ru/s7-1200/README.md)
+      * [Задания](plc/Siemens/ru/s7-1200/tasks.md)
+  * [Siemens kontrolllerid](plc/Siemens/ee.md)
+
 ## Robotics
 
 * [About robotics](robotics/about-robotics/README.md)
