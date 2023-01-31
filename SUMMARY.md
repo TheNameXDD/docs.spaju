@@ -9,6 +9,7 @@
 * [Siemens](plc/Siemens/README.md)
   * [Контроллеры Siemens](plc/Siemens/ru/README.md)
     * [LOGO!](plc/Siemens/ru/logo/README.md)
+      * [Программа Soft Comfort](plc/Siemens/ru/logo/soft-comfort8.3.md)
       * [Задания](plc/Siemens/ru/logo/tasks.md)
     * [S7-1200](plc/Siemens/ru/s7-1200/README.md)
       * [Задания](plc/Siemens/ru/s7-1200/tasks.md)
