@@ -1,6 +1,6 @@
 # Программа Soft Comfort
 
-Актуальная версия LOGO! Soft Comroft v8.3 доступна по ссылке: [https://drive.google.com/file/d/145qWzNiA\_BtpqRxwDMQrOehK\_LjhUTwT/view?usp=sharing](https://drive.google.com/file/d/145qWzNiA\_BtpqRxwDMQrOehK\_LjhUTwT/view?usp=sharing)
+Актуальная версия LOGO! Soft Comroft v8.3 доступна по ссылке: [https://drive.google.com/file/d/145qWzNiA\_BtpqRxwDMQrOehK\_LjhUTwT/view?usp=sharing](https://drive.google.com/file/d/145qWzNiA\_BtpqRxwDMQrOehK\_LjhUTwT/view?usp=sharing) (архив находится на моем личном google drive аккаунте)
 
 
 
