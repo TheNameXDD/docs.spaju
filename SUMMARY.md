@@ -45,6 +45,6 @@
 * [Building automation](automation/building-automation.md)
 * [Automation control](automation/automation-control.md)
 
-## Projects <a href="#Projects" id="Projects"></a>
+***
 
-* [Page 2](Projects/page-2.md)
+* [Hydraulics (Simulator)](hydraulics-simulator.md)
