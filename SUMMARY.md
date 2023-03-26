@@ -15,6 +15,7 @@
       * [Задания](plc/Siemens/ru/s7-1200/tasks.md)
       * [TIA portal v17](plc/Siemens/ru/s7-1200/tia-portal-v17/README.md)
         * [Начало](plc/Siemens/ru/s7-1200/tia-portal-v17/get-started.md)
+        * [Функции LAD](plc/Siemens/ru/s7-1200/tia-portal-v17/funkcii-lad.md)
   * [Siemens kontrolllerid](plc/Siemens/ee.md)
 
 ## Robotics
