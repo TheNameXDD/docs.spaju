@@ -6,6 +6,8 @@
 
 ## PLC
 
+* [Main info](plc/main-info/README.md)
+  * [Всё о контроллерах (общее)](plc/main-info/ru.md)
 * [Siemens](plc/Siemens/README.md)
   * [Контроллеры Siemens](plc/Siemens/ru/README.md)
     * [LOGO!](plc/Siemens/ru/logo/README.md)
