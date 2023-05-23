@@ -94,3 +94,7 @@ OB программного цикла содержит главную прог�
 
 ### Использование блоков для структурирования программы <a href="#use-blocks-in-program-cycle" id="use-blocks-in-program-cycle"></a>
 
+
+
+<figure><img src="../../../../.gitbook/assets/S7_block_work_cycle.png" alt=""><figcaption></figcaption></figure>
+
