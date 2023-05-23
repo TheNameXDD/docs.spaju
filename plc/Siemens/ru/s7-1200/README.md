@@ -1,6 +1,6 @@
 # S7-1200
 
-### Принцип работы ПЛК Siemens SIMATIC S7-1200 <a href="#siemens-plc-work-principle" id="siemens-plc-work-principle"></a>
+Принцип работы ПЛК Siemens SIMATIC S7-1200
 
 У контроллера S7-1200 есть 3 режима работы CPU (центральный процессор контроллера):
 
