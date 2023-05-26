@@ -148,5 +148,7 @@ MD% - 32 бита
 
 Следующий тип памяти - это байтовая память (**MB - memory byte**), которая вмещает в себя 8 бит (M). После байтовой памяти идет память слово (**MW - memory word**), которая вмещает в себя 16 бит (M) или просто 2 байта (MB). Последним типом памяти является память двойного слова (**MD - memory double**), которая вмещает в себя 32 бита (M), или 4 байте (MB), или 2 памяти слова (MW)
 
+<figure><img src="../../../../../.gitbook/assets/TIA_memory_fromGL.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../../../../.gitbook/assets/TIA_memory" alt=""><figcaption></figcaption></figure>
 
