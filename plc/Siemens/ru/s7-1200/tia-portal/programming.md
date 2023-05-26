@@ -181,7 +181,7 @@ MD% - 32 бита
 Следующая программа на SCL позволяет использовать входной сигнал BUTTON как переключатель. С каждым включением BUTTON мы меняем состояние OUTPUT с 0 на 1, и с 1 на 0:
 
 ```cpp
-IF "BUTTON" AND NOT "BUTTON_BEFORE@ THEN
+IF "BUTTON" AND NOT "BUTTON_BEFORE" THEN
     "OUTPUT" := NOT "OUTPUT"; //С каждым разом меняем значение выхода на противоположное значение
 END_IF;
 
