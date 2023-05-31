@@ -156,6 +156,8 @@ MD% - 32 бита
 
 <figure><img src="../../../../../.gitbook/assets/TIA_memory" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../../../.gitbook/assets/TIA_memory.png" alt=""><figcaption></figcaption></figure>
+
 #### Использование памяти в программировании
 
 Самый популярный тип памяти - это битовая память, в которой можно хранить 1 или 0. Битовая память, например с адресом M0.0 подключается в языке LAD как выход, чтобы можно было отправлять ей команды. Всего существует основные 3 команды на LAD для такой памяти:
@@ -191,11 +193,11 @@ END_IF;
 
 <figure><img src="../../../../../.gitbook/assets/TIA_portal_memory_toggle.png" alt=""><figcaption><p>Таблица PLC tags</p></figcaption></figure>
 
-### Расширенные бинарные фукнции
+### Расширенные бинарные функции
 
 #### Таймера
 
-Всего в TIA portal существует 4 функций с таймерами: TP, TON, TOF, TONR
+Всего в TIA portal существует 4 функции с таймерами: TP, TON, TOF, TONR
 
 <figure><img src="../../../../../.gitbook/assets/TIA_timers.png" alt=""><figcaption><p>Basic instructions/timer operations</p></figcaption></figure>
 
